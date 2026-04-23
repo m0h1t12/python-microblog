@@ -88,11 +88,9 @@ A modern, responsive microblog application where users can create, view, and man
 ✅ **User-Friendly Interface**
 - Clean, minimal design with professional styling
 - Responsive layout works on desktop, tablet, and mobile
-- Navigation bar with Recent and Calendar links
 
 ✅ **Real-Time Entry Management**
 - Submit new blog entries with a single click
-- Automatic date generation and formatting
 - Persistent storage in MongoDB Atlas
 
 ✅ **Dynamic Content Display**
@@ -100,14 +98,6 @@ A modern, responsive microblog application where users can create, view, and man
 - Text truncation for titles (30 characters max)
 - Full content visible in entry preview
 - Formatted dates for better readability
-
-✅ **Professional Design**
-- BEM methodology for maintainable CSS
-- Consistent color scheme (#3cd0ff primary)
-- Smooth hover effects and transitions
-- Footer with navigation and credits
-
----
 
 ## 📦 Project Structure
 
